@@ -1,1 +1,1 @@
-This folder contains a 0.4 μs molecular dynamics simulation of Gd-DTPA-BSA in a 30% POPS / 70% POPC mixed lipid bilayer. The trajectory was saved with water molecules excluded (xtc). 
+This folder contains a 0.4 μs molecular dynamics simulation of Gd-DTPA-BSA in a 30% POPS / 70% POPC mixed lipid bilayer. The trajectory was saved with water molecules excluded (gro:the first frame; xtc:0-400ns). 
