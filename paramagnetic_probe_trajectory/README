@@ -1,3 +1,3 @@
 This folder contains a 0.4 μs molecular dynamics simulation of Gd-DTPA-BSA embedded in a 30% POPS / 70% POPC mixed lipid bilayer (gro:the first frame; xtc:0-400ns).
 Due to GitHub's file size limit (<25 MB per file), a total of 154 trajectory frames (with water molecules removed) were uniformly extracted over the simulation time.
-The trajectory with finer sampling frequency， which was saved every 100 ps (also excluding water), is available on Zenodo (https://zenodo.org/uploads/15315421). 
+The trajectory with finer sampling frequency， which was saved every 100 ps (also excluding water), is available on Zenodo (https://zenodo.org/uploads/15311107). 
