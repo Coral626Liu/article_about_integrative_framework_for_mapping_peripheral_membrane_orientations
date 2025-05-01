@@ -1,4 +1,4 @@
-This folder contains a 0.4 μs molecular dynamics simulation of Gd-DTPA-BSA embedded in a 30% POPS / 70% POPC mixed lipid bilayer, which was saved 200ps a frame.
+This folder contains a 0.4 μs molecular dynamics simulation of Gd-DTPA-BSA embedded in a 30% POPS / 70% POPC mixed lipid bilayer, which was saved every 200ps.
 ##
 Bilayer1.xtc   0-30ns
 Bilayer2.xtc   30-60ns
