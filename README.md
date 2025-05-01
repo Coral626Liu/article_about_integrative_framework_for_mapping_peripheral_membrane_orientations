@@ -1,2 +1,1 @@
-# article_about_integrative_framework_for_mapping_peripheral_membrane_orientations
 This repository contains the MD trajectory of the POPC/POPS/Gd-DTPA-BSA Bilayer and the Python script used for MEM analysis in the article "An Integrative Framework for Mapping Orientational Landscapes of Peripheral Membrane Proteins by Paramagnetic NMR and Atomistic Simulation.“
